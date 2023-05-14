@@ -1,2 +1,2 @@
-# tic-tac-toe
-Tic Tac Toe Game
+# next-js-app
+Next Js App
